@@ -32,9 +32,16 @@
   number_educ: 1
   education1: B.Sc., Global ICT, Hanoi University of Science and Technology, Hanoi, Vietnam
 
+- name: Le Huy Khiem
+  photo: khiem.lh.jpg
+  info: Research Assistant, now Ph.D. Computer Science at University of Notre Dame
+  email: khiem.lh@vinuni.edu.vn
+  number_educ: 1
+  education1: B.Sc., Mathematics and Computer Science, VNU-HCM University of Science
+
 
 - name: Vu Hong Phuc
-  photo: empty-face.png
+  photo: 20phuc.vh.jpeg
   info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
   email: hung.nt@vinuni.edu.vn
   # number_educ: 1

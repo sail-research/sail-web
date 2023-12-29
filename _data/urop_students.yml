@@ -1,7 +1,7 @@
-- name: Thai Minh Dung
-  photo: 22dung.tm.jpg
-  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
-  email: 22dung.tm@vinuni.edu.vn
+# - name: Thai Minh Dung
+#   photo: 22dung.tm.jpg
+#   info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+#   email: 22dung.tm@vinuni.edu.vn
   # number_educ: 1
   # education1:
 
@@ -25,10 +25,10 @@
   email: 22minh.dt@vinuni.edu.vn
 
 
-- name: Thai Ba Hung
-  photo: 22hung.tb.jpg
-  info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
-  email: 22hung.tb@vinuni.edu.vn
+# - name: Thai Ba Hung
+#   photo: 22hung.tb.jpg
+#   info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+#   email: 22hung.tb@vinuni.edu.vn
 
 
 - name: Phan Nguyen Tuan Anh

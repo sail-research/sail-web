@@ -13,8 +13,15 @@
   # education1:
 
 - name: Dao Duc Thinh
-  photo: thinh.dd.png
+  photo: 21thinh.dd.png
   info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
-  email: thinh.dd@vinuni.edu.vn
+  email: 21thinh.dd@vinuni.edu.vn
+  # number_educ: 1
+  # education1:
+
+- name: Le Chi Cuong
+  photo: 21cuong.lc.jpeg
+  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: 21cuong.lc@vinuni.edu.vn
   # number_educ: 1
   # education1:

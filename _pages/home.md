@@ -35,25 +35,49 @@ At our Security and Artificial Intelligence Lab, we also focus on addressing key
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <!-- <li data-target="#carousel" data-slide-to="3"></li> -->
-        <!-- <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li> -->
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <!-- <li data-target="#carousel" data-slide-to="5"></li> -->
+        <!-- <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
 
     <!-- Items -->
 
     <div class="carousel-inner" markdown="0">
+        
         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/23dec-01.jpg"
+            alt="Slide 6" />
+        </div>
+        
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/23dec-02-min.jpg"
+            alt="Slide 7" />
+        </div>
+
+        
+
+        
+
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/home-05.jpeg" alt="Slide 5" />
+        </div>
+
+
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/home/home-03.jpg" alt="Slide 1" />
         </div>
 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/home/home-04.jpg" alt="Slide 4" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/home-05.jpeg" alt="Slide 5" />
-        </div>
+
+        
+
+        
+
+        
+        
 
     </div>
 

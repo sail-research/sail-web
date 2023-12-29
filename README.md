@@ -2,5 +2,7 @@
 
 This is the website of our academic research group at Vin University.
 
-Copyright Security and Artificial Intelligence Lab. Code released under the MIT License.
+The template is based on [Allan Lab Website](https://github.com/mpa139/allanlab).
+
+<!-- Copyright Security and Artificial Intelligence Lab. Code released under the MIT License. -->
 
