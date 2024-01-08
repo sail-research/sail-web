@@ -51,7 +51,7 @@ At our Security and Artificial Intelligence Lab, we also focus on addressing key
         </div>
         
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/23dec-02-min.jpg"
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/23dec-04-min.jpg"
             alt="Slide 7" />
         </div>
 
