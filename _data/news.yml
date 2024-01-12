@@ -1,4 +1,10 @@
 - date: January, 2024
+  headline: "One paper titled **Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning** has been accepted by IEEE Transactions on Emerging Topics in Computing."
+
+- date: January, 2024
+  headline: "Congrats, Le Huy Khiem will pursue his Ph.D. at the University of Notre Dame, USA under the supervision of Prof. Nitesh Vijay Chawla."
+
+- date: January, 2024
   headline: "Congrats, Le Huy Khiem will pursue his Ph.D. at the University of Notre Dame, USA under the supervision of Prof. Nitesh Vijay Chawla."
 
 - date: December, 2023
@@ -37,8 +43,8 @@
 - date: March 2023
   headline: "One paper titled **Backdoor Attacks and Defenses in Federated Learning: Survey, Challenges and Future Research Directions**. You can access the paper [here](https://arxiv.org/abs/2303.02213)."
 
-- date: February, 2023
-  headline: "One paper titled **Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning**. You can access the paper [here](https://arxiv.org/abs/2302.12020)."
+# - date: February, 2023
+#   headline: "One paper titled **Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning**. You can access the paper [here](https://arxiv.org/abs/2302.12020)."
 
 - date: January 2023
   headline: Congrats, Tuan Nguyen is now a Ph.D. Candidate!
