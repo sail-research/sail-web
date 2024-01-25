@@ -38,6 +38,7 @@ At our Security and Artificial Intelligence Lab, we also focus on addressing key
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <!-- <li data-target="#carousel" data-slide-to="5"></li> -->
+        <!-- <li data-target="#carousel" data-slide-to="5"></li> -->
         <!-- <li data-target="#carousel" data-slide-to="6"></li> -->
     </ol>
 
@@ -49,15 +50,14 @@ At our Security and Artificial Intelligence Lab, we also focus on addressing key
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/23dec-01.jpg"
             alt="Slide 6" />
         </div>
-        
+
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/23dec-04-min.jpg"
-            alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/home-2401.jpeg" alt="Slide 2" />
         </div>
-
-        
-
-        
+      
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/home-04.jpg" alt="Slide 4" />
+        </div>
 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/home/home-05.jpeg" alt="Slide 5" />
@@ -68,16 +68,12 @@ At our Security and Artificial Intelligence Lab, we also focus on addressing key
             <img src="{{ site.url }}{{ site.baseurl }}/images/home/home-03.jpg" alt="Slide 1" />
         </div>
 
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/home-04.jpg" alt="Slide 4" />
-        </div>
 
         
 
         
 
-        
-        
+
 
     </div>
 

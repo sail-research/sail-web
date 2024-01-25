@@ -1,8 +1,11 @@
 - date: January, 2024
-  headline: "One paper titled **Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning** has been accepted by IEEE Transactions on Emerging Topics in Computing."
+  headline: "One paper titled **Towards Efficient Communication Federated Recommendation System via Low-rank Training** has been accepted at The Web Conference 2024 (WWW'24). You can access the paper [here](https://arxiv.org/pdf/2401.03748.pdf)."
 
-# - date: January, 2024
-#   headline: "Congrats, Le Huy Khiem will pursue his Ph.D. at the University of Notre Dame, USA under the supervision of Prof. Nitesh Vijay Chawla."
+- date: January, 2024
+  headline: "One paper titled **Understanding the Robustness of Randomized Feature Defense Against Query-Based Adversarial Attacks** has been accepted at International Conference on Learning Representations (ICLR'24). You can access the paper [here](https://arxiv.org/pdf/2310.00567.pdf)."
+
+- date: January, 2024
+  headline: "One paper titled **Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning** has been accepted by IEEE Transactions on Emerging Topics in Computing. You can access the paper [here](https://arxiv.org/pdf/2302.12020.pdf)."
 
 - date: January, 2024
   headline: "Congrats, Le Huy Khiem will pursue his Ph.D. at the University of Notre Dame, USA under the supervision of Prof. Nitesh Vijay Chawla."
@@ -37,14 +40,8 @@
 - date: May 2023
   headline: "Our paper titled **FedGrad: Mitigating Backdoor Attacks in Federated Learning Through Local Ultimate Gradients Inspection** has been accepted at The International Joint Conference on Neural Networks (IJCNN 2023). You can access the paper [here](https://arxiv.org/pdf/2305.00328.pdf)."
 
-# - date: 6. March 2023
-#   headline: "Two new papers on arXiv! One on [Backdoor Attacks and Defenses in Federated Learning: Survey, Challenges and Future Research Directions](https://arxiv.org/abs/2303.02213), and one on [Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning](https://arxiv.org/abs/2302.12020)."
-
 - date: March 2023
   headline: "One paper titled **Backdoor Attacks and Defenses in Federated Learning: Survey, Challenges and Future Research Directions**. You can access the paper [here](https://arxiv.org/abs/2303.02213)."
-
-# - date: February, 2023
-#   headline: "One paper titled **Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning**. You can access the paper [here](https://arxiv.org/abs/2302.12020)."
 
 - date: January 2023
   headline: Congrats, Tuan Nguyen is now a Ph.D. Candidate!
