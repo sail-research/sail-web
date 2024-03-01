@@ -11,7 +11,7 @@
 #   headline: "One paper titled **FedFSLAR: A Federated Learning Framework for Few-shot Action Recognition** has been accepted at IEEE/CVF Winter Conference on Applications of Computer Vision (WACV2024) Workshop."
 
 - title: "Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization"
-  # image: paper-fedreclora.png
+  image: paper-cvpr24.png
   description: 
   authors: Le Huy Khiem, Long Tuan Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong
   link:
