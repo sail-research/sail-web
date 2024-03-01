@@ -12,7 +12,7 @@
 
 - title: "Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization"
   image: paper-cvpr24.png
-  description: 
+  description: We introduce a novel architectural method for FedDG, namely gPerXAN, which relies on a normalization scheme working with a guiding regularizer. In particular, we carefully design Personalized Xplicitly Assembled Normalization to enforce client models selectively filtering domain-specific features that are biased towards local data while retaining discrimination of those features.
   authors: Le Huy Khiem, Long Tuan Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong
   link:
     url: 
