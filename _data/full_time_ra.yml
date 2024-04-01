@@ -6,26 +6,6 @@
   education1: M.Eng in Machine Learning and Computer Vision, ANU, Australia
   education2: B.Eng in Control and Automation Engineering, HUST, Vietnam
 
-- name: Hong-Son Nguyen
-  photo: son.nh.jpg
-  info: Research Assistant
-  email: son.nh@vinuni.edu.vn
-  number_educ: 1
-  education1: B.Sc., Electronics and Telecommunications Engineering, Hanoi University of Science and Technology, Hanoi, Vietnam
-
-- name: Luong Ha Tri Nhan
-  photo: nhan.lht.jpeg
-  info: Research Assistant
-  email: nhan.lht@vinuni.edu.vn
-  number_educ: 1
-  education1: B.Com.Sci (Hons), Advanced Computer Science, Monash University, Melbourne, Australia
-
-- name: Ho Tuan Long
-  photo: long.ht.jpeg
-  info: Research Assistant
-  email: long.ht@vinuni.edu.vn
-  number_educ: 1
-  education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
 
 - name: Hoang Cao Duy
   photo: duy.hc.jpeg
@@ -42,16 +22,19 @@
   number_educ: 1
   education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
 
-- name: Le Hoang Long
-  photo: long.lh.jpeg
-  info: Research Assistant
-  email: hung.nt@vinuni.edu.vn
-  number_educ: 1
-  education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
 
-- name: Jason Yang Sze Jue
-  photo: jason.y.jpeg
+- name: Nguyen Tran Huu Thinh
+  photo: thinh.nth.jpg
   info: Research Assistant
-  email: jason.y@vinuni.edu.vn
+  email: thinh.nth@vinui.edu.vn
+  number_educ: 2
+  education1: M.Sc., Data Science, VNU-HCM, University of Science, Vietnam
+  education2: B.Sc., Mathematics and Computer Science, VNU-HCM, University of Science, Vietnam
+
+
+- name: Nguyen Minh Phuc
+  photo: phuc.nm.jpg
+  info: Research Assistant
+  email: phuc.nm@vinuni.edu.vn
   number_educ: 1
-  education1: B.Sc., Computer Science, University of Malaya, Kuala Lumpur, Malaysia
+  education1: B.Sc Data Science, VNU-HCM, UNiversity of Science, Vietnam

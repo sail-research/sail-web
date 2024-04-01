@@ -1,17 +1,3 @@
-- name: Nguyen Thai Hung
-  photo: hung.nt.jpg
-  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
-  email: hung.nt@vinuni.edu.vn
-  # number_educ: 1
-  # education1: 
-
-- name: Pham Phuoc Minh Quang
-  photo: 20quang.ppm.jpg
-  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
-  email: hung.nt@vinuni.edu.vn
-  # number_educ: 1
-  # education1:
-
 - name: Dao Duc Thinh
   photo: 21thinh.dd.png
   info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
@@ -25,3 +11,27 @@
   email: 21cuong.lc@vinuni.edu.vn
   # number_educ: 1
   # education1:
+
+- name: Khuong Duy
+  photo: 22duy.k.jpg
+  info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: 22duy.k@vinuni.edu.vn
+  # number_educ: 1
+  # education1:
+
+- name: Dinh The Minh
+  photo: 22minh.dt.png
+  info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: 22minh.dt@vinuni.edu.vn
+
+
+# - name: Thai Ba Hung
+#   photo: 22hung.tb.jpg
+#   info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+#   email: 22hung.tb@vinuni.edu.vn
+
+
+- name: Phan Nguyen Tuan Anh
+  photo: 22anh.pnt.jpg
+  info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: 22anh.pnt@vinuni.edu.vn
