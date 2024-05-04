@@ -1,7 +1,7 @@
 {
   "projects": {
     "default": "sail-web-55153",
-    "infosecvinuni": "infosecvinuni-a0b1d"
+    "infosecvinuni": "sail-web-55153"
   },
   "targets": {},
   "etags": {}

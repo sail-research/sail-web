@@ -71,6 +71,8 @@
   link:
     url: https://neurips.cc/virtual/2023/poster/71079
     display: Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS'23)
+    code: https://github.com/sail-research/iba/
+    talk: https://slideslive.com/39008619/iba-towards-irreversible-backdoor-attacks-in-federated-learning?ref=speaker-95839
   highlight: 1
 
 - title: "An Empirical Study of Federated Unlearning: Efficiency and Effectiveness"
