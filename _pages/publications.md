@@ -30,14 +30,14 @@ permalink: /publications/
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  {% if publi.link.code.size > 0 and publi.link.talk.size > 0 %}
+
   <p><strong>
-    <a href="{{ publi.link.url }}" style="color: blue;">[Paper]</a>
-    <a href="{{ publi.link.code }}" style="color: green;">[Code]</a>
-    <a href="{{ publi.link.talk }}" style="color: red;">[Talk]</a>
+    {% if publi.link.url.size > 0 %}<a href="{{ publi.link.url }}" style="color: blue;">[Paper]</a> {% endif %}
+    {% if publi.link.code.size > 0 %}<a href="{{ publi.link.code }}" style="color: green;">[Code]</a> {% endif %}
+    {% if publi.link.talk.size > 0 %}<a href="{{ publi.link.talk }}" style="color: red;">[Talk]</a> {% endif %}
   </strong></p>
 
-  {% endif %}
+
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>

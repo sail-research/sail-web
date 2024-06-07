@@ -1,9 +1,18 @@
+- title: "Fooling the Textual Fooler via Randomizing Latent Representations"
+  image: paper-acl24.png
+  description: We propose a lightweight and attack-agnostic defense whose main goal is to perplex the process of generating an adversarial example in these query-based black-box attacks; that is to fool the textual fooler.
+  authors: Duy C. Hoang, Quang H. Nguyen, Saurav Manchanda, MinLong Peng, Kok-Seng Wong, Khoa D. Doan
+  link:
+    url: https://arxiv.org/abs/2310.01452
+    display: Findings of the Association for Computational Linguistics: (ACL'24)
+  highlight: 1
+
 - title: "Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization"
   image: paper-cvpr24.png
   description: We introduce a novel architectural method for FedDG, namely gPerXAN, which relies on a normalization scheme working with a guiding regularizer. In particular, we carefully design Personalized Xplicitly Assembled Normalization to enforce client models selectively filtering domain-specific features that are biased towards local data while retaining discrimination of those features.
   authors: Le Huy Khiem, Long Tuan Ho, Cuong Do, Danh Le-Phuoc, Kok-Seng Wong
   link:
-    url: 
+    url: https://arxiv.org/abs/2403.15605
     display: Conference on Computer Vision and Pattern Recognition 2024 (CVPR'24)
     code: https://github.com/lhkhiem28/gPerXAN
   highlight: 1
@@ -26,7 +35,7 @@
   link:
     url: https://arxiv.org/pdf/2310.00567.pdf
     display: Twelfth International Conference on Learning Representations (ICLR'24)
-    talk: https://iclr.cc/virtual/2024/poster/17528
+    # talk: https://iclr.cc/virtual/2024/poster/17528
   highlight: 1
 
 - title: "Personalized Privacy-Preserving Framework for Cross-Silo Federated Learning"
