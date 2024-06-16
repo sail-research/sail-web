@@ -5,12 +5,6 @@
   # number_educ: 1
   # education1:
 
-- name: Le Chi Cuong
-  photo: 21cuong.lc.jpeg
-  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
-  email: 21cuong.lc@vinuni.edu.vn
-  # number_educ: 1
-  # education1:
 
 - name: Khuong Duy
   photo: 22duy.k.jpg
@@ -31,7 +25,7 @@
 #   email: 22hung.tb@vinuni.edu.vn
 
 
-- name: Phan Nguyen Tuan Anh
-  photo: 22anh.pnt.jpg
-  info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
-  email: 22anh.pnt@vinuni.edu.vn
+# - name: Phan Nguyen Tuan Anh
+#   photo: 22anh.pnt.jpg
+#   info: UROP, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+#   email: 22anh.pnt@vinuni.edu.vn

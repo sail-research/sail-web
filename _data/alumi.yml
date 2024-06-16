@@ -69,12 +69,12 @@
   number_educ: 1
   education1: B.Sc., Electronics and Telecommunications Engineering, Hanoi University of Science and Technology, Hanoi, Vietnam
 
-- name: Le Hoang Long
-  photo: long.lh.jpeg
-  info: Research Assistant
-  email: hung.nt@vinuni.edu.vn
-  number_educ: 1
-  education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
+# - name: Le Hoang Long
+#   photo: long.lh.jpeg
+#   info: Research Assistant
+#   email: hung.nt@vinuni.edu.vn
+#   number_educ: 1
+#   education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
 
 - name: Jason Yang Sze Jue
   photo: jason.y.jpeg
@@ -95,5 +95,12 @@
   photo: 20quang.ppm.jpg
   info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
   email: hung.nt@vinuni.edu.vn
+  # number_educ: 1
+  # education1:
+
+- name: Le Chi Cuong
+  photo: 21cuong.lc.jpeg
+  info: Research Assistant, Bachelor Student, College of Engineering and Computer Science, VinUniversity
+  email: 21cuong.lc@vinuni.edu.vn
   # number_educ: 1
   # education1:

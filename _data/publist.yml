@@ -4,7 +4,7 @@
   authors: Duy C. Hoang, Quang H. Nguyen, Saurav Manchanda, MinLong Peng, Kok-Seng Wong, Khoa D. Doan
   link:
     url: https://arxiv.org/abs/2310.01452
-    display: Findings of the Association for Computational Linguistics: (ACL'24)
+    display: Findings of the Association for Computational Linguistics (ACL'24)
   highlight: 1
 
 - title: "Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization"

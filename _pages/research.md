@@ -11,27 +11,9 @@ At the Security and Artificial Intelligence Lab, our dedication lies in advancin
 
 In the field of Federated Learning, we investigate various aspects such as privacy concerns, novel algorithms, fairness considerations, and more. Our goal is to address the challenges associated with federated learning, including backdoor attacks, federated unlearning, personalized federated learning, and fairness. By conducting research in these areas, we strive to advance the state-of-the-art and promote the adoption of secure and privacy-preserving machine learning techniques. Join our research lab and be part of our vibrant community focused on cutting-edge research in Machine Learning, Federated Learning, Information Security, and Trustworthy AI.
 
-In NLP Robustness, we focus on ensuring the Robustness of Natural Language Processing (NLP) models. Our research group explores topics such as adversarial attacks, defense mechanisms, model interpretability, and more. Through in-depth discussions and research, we aim to deepen our understanding of NLP robustness and contribute to the development of robust NLP systems. 
+In NLP Robustness, we focus on ensuring the Robustness of Natural Language Processing (NLP) models. Our research group explores topics such as adversarial attacks, defense mechanisms, model interpretability, and more. Through in-depth discussions and research, we aim to deepen our understanding of NLP robustness and contribute to the development of robust NLP systems.
 
-<!-- At the Security and Artificial Intelligence Lab, our overarching goal is to advance the state-of-the-art in information security and privacy through cutting-edge research in applied cryptography, secret sharing, data privacy, and privacy-preserving machine/federated learning. We strive to address the challenges of information security in today's interconnected digital world, with a particular focus on developing novel solutions that apply to smart healthcare.  -->
-
-<!-- Through our work, we aim to create a more secure, trustworthy, and privacy-preserving future for individuals and organizations alike. To achieve this goal, we conduct rigorous research, collaborate with other experts in the field, and provide training and mentorship opportunities for the next generation of researchers and practitioners in information security. -->
-
-<!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
-
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation. -->
-
-<!-- Here are some themes and techniques that we currently work on:
-
-**Applied Cryptography.** The study of techniques for secure communication in the presence of adversaries, with a focus on developing cryptographic protocols and systems that are efficient, secure, and resistant to attacks.
-
-**Secret Sharing.** The study of methods for distributing a secret among a group of participants in such a way that only authorized subsets of the participants can reconstruct the secret, with applications in secure multi-party computation and access control.
-
-**Information Security.** The study of techniques for protecting information systems and data from unauthorized access, use, disclosure, disruption, modification, or destruction, with a focus on developing effective defenses against cyber threats.
-
-**Data Privacy.** The study of methods for protecting the privacy of individuals and sensitive information in data collection, storage, processing, and sharing, with applications in healthcare, finance, and social media.
-
-**Privacy-Preserving Machine Learning.** The study of techniques for training machine learning models on sensitive data without revealing the data or compromising the privacy of individuals, with applications in healthcare, finance, and other domains. -->
+The updated research paper in the domain of Federated Learning and Backdoor Learning can be found at this [url](https://mtuann.shinyapps.io/research-papers/).
 
 # Projects
 1. Project Title: "Smart Indoor Air Quality Control System for Healthier and Greener Buildings,"  Vinuni-Illinois Smart Health Center Project. (Principal Investigator: Prof. Andrew Le Duy Dung & Prof. Vishal Verma, **Co-PI: Prof. Kok-Seng Wong**)
