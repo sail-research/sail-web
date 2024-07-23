@@ -1,8 +1,17 @@
+- date: July, 2024
+  headline: "Congrats, Nguyen Tran Huu Thinh (Lucaz) is now a Ph.D. Candidate in Computer Science at VinUniversity, Vietnam!"
+
+- date: June, 2024
+  headline: "Our member attended CVPR 2024. The paper titled **Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization** was presented at the conference. The paper is available [here](https://openaccess.thecvf.com/content/CVPR2024/papers/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.pdf)."
+
 - date: June, 2024
   headline: "Our Farm2Vet team has won the grand prize of The Trinity Challenge 2024, securing £1 million in funding for our virtual veterinary platform for farmers. You can access the project [here](https://solve.mit.edu/challenges/trinity-challenge-amr/solutions/81996)."
 
 - date: May, 2024
   headline: "New paper on arXiv! [Exploring the Practicality of Federated Learning: A Survey Towards the Communication Perspective](https://arxiv.org/abs/2405.20431)."
+
+- date: May, 2024
+  headline: "We attended ICLR 2024. Our paper titled **Understanding the Robustness of Randomized Feature Defense Against Query-Based Adversarial Attacks** was presented at the conference. The paper is available [here](https://arxiv.org/pdf/2310.00567.pdf)."
 
 - date: May, 2024
   headline: "One paper titled **Fooling the Textual Fooler via Randomizing Latent Representations** has been accepted at Findings of the Association for Computational Linguistics: (ACL'24). You can access the paper [here](https://arxiv.org/abs/2310.01452)."
@@ -56,4 +65,4 @@
   headline: "One paper titled **Backdoor Attacks and Defenses in Federated Learning: Survey, Challenges and Future Research Directions**. You can access the paper [here](https://arxiv.org/abs/2303.02213)."
 
 - date: January 2023
-  headline: Congrats, Tuan Nguyen is now a Ph.D. Candidate!
+  headline: Congrats, [Tuan Nguyen](https://mtuann.github.io/) is now a Ph.D. Candidate in Computer Science at VinUniversity, Vietnam!
