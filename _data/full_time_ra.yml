@@ -6,7 +6,6 @@
   education1: M.Eng in Machine Learning and Computer Vision, ANU, Australia
   education2: B.Eng in Control and Automation Engineering, HUST, Vietnam
 
-
 - name: Hoang Cao Duy
   photo: duy.hc.jpeg
   info: Research Assistant
@@ -29,19 +28,15 @@
   number_educ: 1
   education1: B.Sc., Computer Science, VNU University of Engineering and Technology, Hanoi, Vietnam
 
-
-- name: Nguyen Tran Huu Thinh
-  photo: thinh.nth.jpg
-  info: Research Assistant
-  email: thinh.nth@vinui.edu.vn
-  number_educ: 2
-  education1: M.Sc., Data Science, VNU-HCM, University of Science, Vietnam
-  education2: B.Sc., Mathematics and Computer Science, VNU-HCM, University of Science, Vietnam
-
-
 - name: Nguyen Minh Phuc
   photo: phuc.nm.jpg
   info: Research Assistant
   email: phuc.nm@vinuni.edu.vn
   number_educ: 1
-  education1: B.Sc Data Science, VNU-HCM, UNiversity of Science, Vietnam
+  education1: B.Sc Data Science, VNU-HCM, University of Science, Vietnam
+
+- name: Tran Quang Thuan
+  photo: anno.jpg
+  info: Research Assistant, Bachelor Student in Data Science, VNU-HCM, University of Science, Vietnam
+  email: thuan.tq@vinuni.edu.vn
+  

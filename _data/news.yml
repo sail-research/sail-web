@@ -1,5 +1,11 @@
+- date: Sep, 2024
+  headline: "Welcome to our new RA, **Tran Quang Thuan**. He will work on the topic **Generative Model**."
+
+- date: August, 2024
+  headline: "5 new papers on arXiv! 1. [Towards Clean-Label Backdoor Attacks in the Physical World](https://arxiv.org/abs/2407.19203), 2. [Wicked Oddities: Selectively Poisoning for Effective Clean-Label Backdoor Attacks](https://arxiv.org/abs/2407.10825), 3. [Overcoming Catastrophic Forgetting in Federated Class-Incremental Learning via Federated Global Twin Generator](https://arxiv.org/abs/2407.11078), 4. [Non-Cooperative Backdoor Attacks in Federated Learning: A New Threat Landscape](https://arxiv.org/abs/2407.07917), and 5. [Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning](https://arxiv.org/abs/2407.03144)."
+
 - date: July, 2024
-  headline: "Congrats, Nguyen Tran Huu Thinh (Lucaz) is now a Ph.D. Candidate in Computer Science at VinUniversity, Vietnam!"
+  headline: "Congrats, **Nguyen Tran Huu Thinh (Lucaz)** is now a Ph.D. Candidate in Computer Science at VinUniversity, Vietnam!"
 
 - date: June, 2024
   headline: "Our member attended CVPR 2024. The paper titled **Efficiently Assemble Normalization Layers and Regularization for Federated Domain Generalization** was presented at the conference. The paper is available [here](https://openaccess.thecvf.com/content/CVPR2024/papers/Le_Efficiently_Assemble_Normalization_Layers_and_Regularization_for_Federated_Domain_Generalization_CVPR_2024_paper.pdf)."
