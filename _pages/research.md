@@ -16,11 +16,12 @@ In NLP Robustness, we focus on ensuring the Robustness of Natural Language Proce
 The updated research paper in the domain of Federated Learning and Backdoor Learning can be found at this [url](https://mtuann.shinyapps.io/research-papers/).
 
 # Projects
-1. Project Title: "Smart Indoor Air Quality Control System for Healthier and Greener Buildings,"  Vinuni-Illinois Smart Health Center Project. (Principal Investigator: Prof. Andrew Le Duy Dung & Prof. Vishal Verma, **Co-PI: Prof. Kok-Seng Wong**)
-2. Project Title: "Development of Brain-Computer Interface SW/HW Solutions," Oct 2022- Oct 2024, Commercialization Project, Nazarbayev University, Kazakhstan. (Principal Investigator: Prof. Minho Lee, **Co-PI: Prof. Kok-Seng Wong**)
-3. Project Title: "Applying Machine Learning to Mitigate RF Impairments in Wireless Communications Systems," Oct 2022- Dec 2023, Seed Grant, VinUniversity, Hanoi, Vietnam. (**Principal Investigator: Prof. Kok Seng Wong**)
-4. Project Title: "Privacy-Preserving, Robust, and Explainable Federated Learning Framework for Healthcare System," Vinuni-Illinois Smart Health Center Project. (**Principal Investigator: Prof. Kok Seng Wong, Co-PI: Prof. Khoa Doan**)
-5. Project Title: "Privacy-Preserving Data Publishing for Autonomous Vehicles," Jan 2021- Dec 2023, Seed Grant, VinUniversity, Vietnam. (**Principal Investigator: Prof. Kok Seng Wong**)
+1. Project Title: "Green Serverless Computing for Resource-Efficient AI Training," Center for Environment Intelligence, VinUniversity, Hanoi, Vietnam. (Principal Investigator: **Prof. Kok-Seng Wong**, Co-PI: Prof. Nguyen Van Dinh, Prof. Andrew Le Duy Dung)
+2. Project Title: "Smart Indoor Air Quality Control System for Healthier and Greener Buildings,"  Vinuni-Illinois Smart Health Center Project. (Principal Investigator: Prof. Andrew Le Duy Dung & Prof. Vishal Verma, **Co-PI: Prof. Kok-Seng Wong**)
+3. Project Title: "Development of Brain-Computer Interface SW/HW Solutions," Oct 2022- Oct 2024, Commercialization Project, Nazarbayev University, Kazakhstan. (Principal Investigator: Prof. Minho Lee, **Co-PI: Prof. Kok-Seng Wong**)
+4. Project Title: "Applying Machine Learning to Mitigate RF Impairments in Wireless Communications Systems," Oct 2022- Dec 2023, Seed Grant, VinUniversity, Hanoi, Vietnam. (**Principal Investigator: Prof. Kok Seng Wong**)
+5. Project Title: "Privacy-Preserving, Robust, and Explainable Federated Learning Framework for Healthcare System," Vinuni-Illinois Smart Health Center Project. (**Principal Investigator: Prof. Kok Seng Wong, Co-PI: Prof. Khoa Doan**)
+6. Project Title: "Privacy-Preserving Data Publishing for Autonomous Vehicles," Jan 2021- Dec 2023, Seed Grant, VinUniversity, Vietnam. (**Principal Investigator: Prof. Kok Seng Wong**)
 
 # Research focus
 - Backdoor Attacks in Machine Learning/ Federated Learning

@@ -1,3 +1,12 @@
+- title: "HPE-Li: WiFi-enabled Lightweight Dual Selective Kernel Convolution for Human Pose Estimation"
+  image: paper-eccv24.png
+  description: We introduces a novel HPE-Li approach that harnesses multi-modal sensors (e.g. camera and WiFi) to generate accurate 3D skeletal in HPE. We then develop an efficient deep neural network to process raw WiFi signals
+  authors: Gian Toan D, Tien Dac Lai, Thien Van Luong, Kok-Seng Wong, Van-Dinh Nguyen
+  link:
+    url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04496.pdf
+    display: Proceedings of the European Conference on Computer Vision (ECCV'24)
+  highlight: 1
+
 - title: "Fooling the Textual Fooler via Randomizing Latent Representations"
   image: paper-acl24.png
   description: We propose a lightweight and attack-agnostic defense whose main goal is to perplex the process of generating an adversarial example in these query-based black-box attacks; that is to fool the textual fooler.
