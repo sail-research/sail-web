@@ -25,17 +25,21 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
+  <!-- <pubtit>{{ publi.title }}</pubtit> -->
+  <!-- <a href="{{ publi.link.url }}"><pubtit>{{ publi.title }}</pubtit></a> -->
+  <a href="{{ publi.link.url }}" target="_blank"><pubtit>{{ publi.title }}</pubtit></a>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <!-- <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p> -->
+  <p><strong>{{ publi.link.display }}</strong></p>
 
-  <p><strong>
-    {% if publi.link.url.size > 0 %}<a href="{{ publi.link.url }}" style="color: blue;">[Paper]</a> {% endif %}
-    {% if publi.link.code.size > 0 %}<a href="{{ publi.link.code }}" style="color: green;">[Code]</a> {% endif %}
-    {% if publi.link.talk.size > 0 %}<a href="{{ publi.link.talk }}" style="color: red;">[Talk]</a> {% endif %}
-  </strong></p>
+  <p><em>
+    {% if publi.link.url.size > 0 %}<a href="{{ publi.link.url }}" style="color: blue;" target="_blank">[Paper]</a> {% endif %}
+    {% if publi.link.code.size > 0 %}<a href="{{ publi.link.code }}" style="color: green;" target="_blank">[Code]</a> {% endif %}
+    {% if publi.link.talk.size > 0 %}<a href="{{ publi.link.talk }}" style="color: red;" target="_blank">[Video]</a> {% endif %}
+  </em></p>
+
 
 
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
@@ -68,8 +72,7 @@ permalink: /publications/
 ## Full List of publications
 
 {% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.link.url }}" target="_blank">{{ publi.title }}</a><br />
+  <strong>{{ publi.authors }} </strong><br /> <em>{{ publi.link.display }} </em>
 
 {% endfor %}

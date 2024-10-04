@@ -109,7 +109,8 @@ Jump to [Professors](#professors), [Graduate Students](#graduate-students), [Ful
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>
   {% if member.url %}
-    <a href="{{ member.url }}">{{ member.name }}</a>
+    <a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
+
   {% else %}
     {{ member.name }}
   {% endif %}

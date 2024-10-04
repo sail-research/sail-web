@@ -13,7 +13,9 @@ In the field of Federated Learning, we investigate various aspects such as priva
 
 In NLP Robustness, we focus on ensuring the Robustness of Natural Language Processing (NLP) models. Our research group explores topics such as adversarial attacks, defense mechanisms, model interpretability, and more. Through in-depth discussions and research, we aim to deepen our understanding of NLP robustness and contribute to the development of robust NLP systems.
 
-The updated research paper in the domain of Federated Learning and Backdoor Learning can be found at this [url](https://mtuann.shinyapps.io/research-papers/).
+The updated research paper in the domain of Federated Learning and Backdoor Learning can be found at <a href="https://mtuann.shinyapps.io/research-papers/" target="_blank">shinyapps.io</a>.
+
+<!-- [url](https://mtuann.shinyapps.io/research-papers/). -->
 
 # Projects
 1. Project Title: "Improving NLP Applications in Low-resource Languages: One Country and One Use Case At A Time," A Cross-College Project at VinUniversity, Hanoi, Vietnam. (Principal Investigator: Prof. Khoa D Doan, Co-PI: Dr. Dat Q Nguyen, Prof. Nidal Kamel, Prof. Kyunghwa Chung, Prof. Pranee Liamputtong, Prof. David Harrison, Prof. Dinh Nguyen, **Prof. Kok-seng Wong**, Doctor Paul O'Halloran)
@@ -32,8 +34,11 @@ The updated research paper in the domain of Federated Learning and Backdoor Lear
 
 # List of AI/Security Conference Deadlines
 
-- [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
-- [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
+<!-- - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR)
+- [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/) -->
+- <a href="https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR" target="_blank">AI Conference Deadlines</a>
+- <a href="https://sec-deadlines.github.io/" target="_blank">Security and Privacy Conference Deadlines</a>
+
 
 # Seminar Series on Federated Learning and NLP Robustness
 
