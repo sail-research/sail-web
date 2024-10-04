@@ -27,6 +27,7 @@
 
 - name: Nguyen Thuy Dung
   photo: dung.nt2.png
+  url: https://judydnguyen.github.io/
   info: Research Assistant, now Ph.D. Computer Science at Vanderbilt University
   duration: In SAIL September 2022 to August 2023, now Ph.D. Computer Science at Vanderbilt University
   email: dung.nt2@vinuni.edu.vn
@@ -51,6 +52,7 @@
 
 - name: Luong Ha Tri Nhan
   photo: nhan.lht.jpeg
+  url: https://lennemo09.github.io/
   info: Research Assistant, now Ph.D. Computer Science at University of Toronto
   res_area: AstroML, AI4Science, Computational Imaging
   email: nhan.lht@vinuni.edu.vn
@@ -74,6 +76,7 @@
 
 - name: Jason Yang Sze Jue
   photo: jason.y.jpeg
+  url: https://jasonyang429.github.io/
   info: Research Assistant
   email: jason.y@vinuni.edu.vn
   number_educ: 1
@@ -97,5 +100,3 @@
   photo: 21cuong.lc.jpeg
   info: Research Assistant, now Resident at FPT Software AI Residency
   email: 21cuong.lc@vinuni.edu.vn
-  # number_educ: 1
-  # education1:
