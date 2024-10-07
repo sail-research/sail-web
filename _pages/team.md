@@ -10,7 +10,7 @@ permalink: /team/
 
 **We are looking for new PhD students, Postdocs, and RA to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-Jump to [Professors](#professors), [Graduate Students](#graduate-students), [Full-time Research Assistant](#full-time-research-assistant), [Undergraduate Students](#undergraduate-students), [UROP](#vinuni-undergraduate-research-opportunities-program), and [Alumni](#alumni).
+Jump to [Professors](#professors), [Graduate Students](#graduate-students), [Full-time Research Assistant](#full-time-research-assistant), [Undergraduate Students](#undergraduate-students), and [Alumni](#alumni).
 <!-- , [Administrative Support](#administrative-support). -->
 
 ## Professors
@@ -29,7 +29,7 @@ Jump to [Professors](#professors), [Graduate Students](#graduate-students), [Ful
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>
   {% if member.url %}
-    <a href="{{ member.url }}">{{ member.name }}</a>
+    <a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
   {% else %}
     {{ member.name }}
   {% endif %}
@@ -241,7 +241,7 @@ Jump to [Professors](#professors), [Graduate Students](#graduate-students), [Ful
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>
   {% if member.url %}
-    <a href="{{ member.url }}">{{ member.name }}</a>
+    <a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
   {% else %}
     {{ member.name }}
   {% endif %}
@@ -305,7 +305,7 @@ Jump to [Professors](#professors), [Graduate Students](#graduate-students), [Ful
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>
   {% if member.url %}
-    <a href="{{ member.url }}">{{ member.name }}</a>
+    <a href="{{ member.url }}" target="_blank">{{ member.name }}</a>
   {% else %}
     {{ member.name }}
   {% endif %}
